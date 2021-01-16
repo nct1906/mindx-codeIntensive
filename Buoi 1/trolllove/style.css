@@ -1,0 +1,36 @@
+.question{
+    background:#222;
+    color:#fff;
+    padding:50px 50px;
+    text-align:center;
+    font-size:40px;
+    border-radius: 10px;
+  
+}
+.container{
+    padding:0 20%;
+}
+.answer div{
+    
+    font-size:40px;
+    width:320px;
+    height:200px;
+    border-radius: 10px;
+    text-align: center;
+    color:#fff;
+    line-height:200px;
+}
+.answer{
+    margin-top: 20px;
+    display:flex;
+    justify-content: space-between;
+   
+}
+#yes{
+    display:inline-block;
+    background: green;
+}
+#no{
+    display:inline-block;
+    background: red;
+}

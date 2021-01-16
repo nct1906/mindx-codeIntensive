@@ -1,0 +1,9 @@
+.container{
+    display:flex;
+    justify-content: space-between;
+    
+}
+card-container{
+    width:30%;
+    border: 1px solid red;
+}
